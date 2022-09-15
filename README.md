@@ -1,4 +1,4 @@
-# Monte Carlo First And Every Visit
+# Monte Carlo First And Every Visit, Reinforcement Learning
 
 Реализован алгоритм first и every visit policy evaluation.
 
