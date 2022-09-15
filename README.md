@@ -1,5 +1,7 @@
 # Monte Carlo First And Every Visit
 
+Реализован алгоритм first и every visit policy evaluation.
+
 
 1) файл для запуска:
 
