@@ -1,11 +1,22 @@
 # Monte Carlo First And Every Visit, Reinforcement Learning
 
-Реализован алгоритм first и every visit policy evaluation.
+
+# About The Project
+
+Implemented first and every visit policy evaluation algorithm.
 
 
-1) файл для запуска:
 
-`/executor/executor.py`
+# Getting Started
+
+File to run: 
+    
+    
+    /executor/executor.py
+      
+      
+     
+
 
 `action_set`, `map_name`, `policy_type` можно поменять в `/configs/config.py` 
 через параметры `cfg.action_set`, `cfg.map_name`, `cfg.policy_type`.
