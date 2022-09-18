@@ -3,7 +3,7 @@
 
 # About The Project
 
-Implemented first and every visit policy evaluation algorithm.
+First and every visit policy evaluation algorithms implementation.
 
 
 
