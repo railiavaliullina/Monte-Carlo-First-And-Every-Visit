@@ -22,8 +22,8 @@ Implementation of first/every policy evaluation:
     /MC/MC.py
 
 Visualization for comparing algorithms by bias and variance:
-   
-   `/plots/`
+
+    /plots/
 
 
 # Additional Information
