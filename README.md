@@ -11,23 +11,21 @@ Implemented first and every visit policy evaluation algorithm.
 
 File to run: 
     
-    
     /executor/executor.py
-      
-      
-     
 
+Parameters `action_set`, `map_name`, `policy_type` can be changed in:
+    
+    `/configs/config.py` via parameters `cfg.action_set`, `cfg.map_name`, `cfg.policy_type`.
 
-`action_set`, `map_name`, `policy_type` можно поменять в `/configs/config.py` 
-через параметры `cfg.action_set`, `cfg.map_name`, `cfg.policy_type`.
+Implementation of first/every policy evaluation:
 
-2) реализация first/every policy evaluation:
+    /MC/MC.py
 
-`/MC/MC.py`
-
-3) Графики сравнения алгоритмов по bias и variance:
+Visualization for comparing algorithms by bias and variance:
    
    `/plots/`
 
-Также при запуске `/executor/executor.py` графики построятся в браузере, где можно будет посмотреть все значения подробнее и 
-значения bias и variance для first и every visit policy evaluation выведятся в консоль.
+
+# Additional Information
+
+Also, when you run `/executor/executor.py`, graphs will be built in the browser, where you can see all the values in more detail and the bias and variance values for first and every visit policy evaluation will be printed to the console.
