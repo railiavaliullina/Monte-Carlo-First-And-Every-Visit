@@ -15,7 +15,7 @@ File to run:
 
 Parameters `action_set`, `map_name`, `policy_type` can be changed in:
     
-    `/configs/config.py` via parameters `cfg.action_set`, `cfg.map_name`, `cfg.policy_type`.
+    /configs/config.py via parameters `cfg.action_set`, `cfg.map_name`, `cfg.policy_type`.
 
 Implementation of first/every policy evaluation:
 
